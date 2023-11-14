@@ -27,3 +27,5 @@ The workflow in this project:
 - create a model
 - optimize the model 
 - fit and test the model
+
+<h3>Accuracy result- 92.25%</h3>
